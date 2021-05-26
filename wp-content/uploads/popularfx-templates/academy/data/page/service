@@ -1,0 +1,232 @@
+[pl_post_props pagelayer-id="5aQTvLXn6VCsv5UW"  post_title="Service" post_name="service" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="qd3qjLLribr5lbPN"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/otherpg-bg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.7" overlay_color="#000000ff"]
+[pl_col pagelayer-id="oUQQ6W8yWuQenLK2"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="uKVHo8OI7aouMvRS"  heading_state="normal" color="#ffffffff" heading_typo="Muli,75,,400,,,Solid,,,," heading_typo_mobile=",50,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+Services[/pl_heading]
+[pl_divider pagelayer-id="uPSuXcybswq25pdF"  divider_style="solid" divider_color="#6200eaff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="left" divider_widht_tablet="10" divider_widht_mobile="20"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="6qTfXAT0UU4ec6NX"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="100px,0px,100px,0px"]
+[pl_col pagelayer-id="OeUJ0uHto8fpalxU"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="dvBHUiVdPSgJY3FJ"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,40,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+Our Services[/pl_heading]
+[pl_divider pagelayer-id="DgwIuLzesQmCQTE4"  divider_style="solid" divider_color="#6200eaff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="G9s3GVNjqhNK45qu"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="okI6bOlntuejMtNd"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="yQHxTvaZIMxfcubf"  service_icon="fas fa-chalkboard-teacher" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="20" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Skilled Teachers" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_background_color="#6200eaff" service_icon_shape_type="circle" ele_padding="25px,25px,25px,25px" ele_shadow="1,1,10,#c4c4c4ff,4," animation="fadeInLeft" animation_delay="600"]
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="NH4n9zfPErB5y9KE"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="hs7RjIeq2qqgGXlI"  service_icon="fas fa-graduation-cap" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="20" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="100+  Online Courses" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_background_color="#6200eaff" service_icon_shape_type="circle" ele_padding="25px,25px,25px,25px" ele_shadow="1,1,10,#c4c4c4ff,4," animation="fadeInUp" animation_delay="600"]
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="1zGKbZSda4jKQhgm"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="g9q8DlBKSk6F6UJg"  service_icon="fas fa-graduation-cap" service_alignment="top" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="20" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Learn From Everywhere" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_background_color="#6200eaff" service_icon_shape_type="circle" ele_padding="25px,25px,25px,25px" ele_shadow="1,1,10,#c4c4c4ff,4," animation="fadeInRight" animation_delay="600"]
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="UzLGY16Zf5sHHvxC"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="0px,0px,0px,0px"]
+[pl_col pagelayer-id="L93VJjWItBPFDVGu"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="f7ns30Zrr4WebMbg"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,40,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+Our Courses[/pl_heading]
+[pl_divider pagelayer-id="kL67cDeXnPeGFHly"  divider_style="solid" divider_color="#6200eaff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="pw7HGfGTEybaV7OF"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="13px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="zn2iYYAwCSw58ttx"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="cVL3AAh5KO1hf9j4"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="1. Photography" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#6200eaff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInLeft" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="vlYfQrjMLMfW2oVU"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="m31vD16fTBhE83kM"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="2. Computer Programming" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#6200eaff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInUp" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="eDGyYIMPLvHIM72X"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="uWY9ofEauqxhe3Ay"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="3. Graphic Designing" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#6200eaff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInRight" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="qbJWKcmdQPauIq0v"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="13px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="PUlmdyn19Qmssd7e"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="acJUbqmq3d5DSlGp"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="4. Cooking" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#6200eaff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInLeft" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="Vft64HBMMw8Zj5CV"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="BLleh2kCvD5NA7Y7"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="5. Hotel Management" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#6200eaff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInUp" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="hP9yL8nlb1D4g7YU"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="85SutVRZKXOjPUYI"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="6. Art Design" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#6200eaff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInRight" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="KbSknBB3kOckIC86"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="0100px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/home-bg1.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="LvEmsodurv7ygTT4"  widget_space="15" overlay_hover_delay="400" col="6"]
+[/pl_col]
+[pl_col pagelayer-id="IOr4djVC5ZKwkQbQ"  widget_space="15" overlay_hover_delay="400" col="6" ele_bg_type="color" ele_bg_color="#651fff80" ele_padding="25px,20px,25px,20px" animation="zoomIn" animation_delay="600"]
+[pl_heading pagelayer-id="PrHC1SHAwHC13Omv"  heading_state="normal" color="#ffffffff" align="left" heading_typo="Muli,45,,,,,Solid,,,,"]
+
+
+
+Success Stories[/pl_heading]
+[pl_text pagelayer-id="4uFQ4g8vuxYMKMSz"  ele_css="{{element}} .pagelayer-text-holder p{font-family:noto sans; font-weight:400;line-height:2; color:#ffffff;}" ele_margin="10px,0px,0px,0px"]
+
+
+
+<p style="font-size: 14px;">Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </p>[/pl_text]
+[pl_heading pagelayer-id="OijYyzJr6sZWJN6U"  heading_state="normal" color="#ffffffff" align="right" heading_typo="Muli,30,,500,,,Solid,,,," ele_margin="20px,0px,0px,0px"]
+
+
+
+- Sara Jones[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="lCFT4QCaBesEvHEo"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px"]
+[pl_col pagelayer-id="BePMsOeRA9mlxIoc"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="NaH1krLDp9htCTuy"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,40,,,,,Solid,,,," heading_typo_mobile=",40,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+Why Choose Us[/pl_heading]
+[pl_divider pagelayer-id="ZnH0S6IvF5IPhgn4"  divider_style="solid" divider_color="#6200eaff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="74x5s4KeOnygdd7u"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="13px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="aE9QcUplofKHjhYS"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="WFpzCkHAKjEz4ugg"  service_icon="fas fa-star-half-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#6200eaff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="5 Years of Experience" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInLeft" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="jvpT7CjgBnYdWRFH"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="gFpbQfQVIofcu8to"  service_icon="fas fa-users" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#6200eaff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Team Of Experts" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInUp" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="hYg5g99vABBomam2"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="1jQIvE7pWKxm0dsy"  service_icon="fas fa-list-ul" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#6200eaff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="20+ Courses" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Muli,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:noto sans; line-height:1.8;}" ele_padding="15px,15px,15px,15px" animation="fadeInRight" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. </span></p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="kFfiMMfXudbaWtRB"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/counter-bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff" ele_padding="100px,0px,100px,0px" ele_margin="100px,0px,0px,0px"]
+[pl_col pagelayer-id="g4dyDGnNXsMZSxaA"  widget_space="15" overlay_hover_delay="400" ele_bg_type="" ele_bg_img="{{theme_url}}/images/counter-bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="mhvAXYUf0TvjArcC"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Muli,40,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+Let The Number Speak[/pl_heading]
+[pl_divider pagelayer-id="Yo4QzL0QMjbuIsor"  divider_style="solid" divider_color="#6200eaff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="wyzxlwpxqyNuwSiD"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="svVCuPlAKgbBGRf1"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="bevfgHX6vHVHd1mt"  counter_start_number="1" counter_end_number="100" animation_duration="2000" counter_align="center" counter_text="Online Courses" counter_text_color="#ffffffff" counter_text_style="Noto Sans,18,,500,,,Solid,1.9,,," counter_number_color="#6200eaff" counter_number_style="Muli,50,,600,,,Solid,,,," number_suffix="+" animation="zoomIn" animation_delay="400"]
+[/pl_counter]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="ZE8VaqZApcJdB6AY"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="egEGWidbf0CjuPWc"  counter_start_number="1" counter_end_number="50" animation_duration="2000" counter_align="center" counter_text="Expert Teachers" counter_text_color="#ffffffff" counter_text_style="Noto Sans,18,,400,,,Solid,1.9,,," counter_number_color="#6200eaff" counter_number_style="Muli,50,,600,,,Solid,,,," number_suffix="+" animation="zoomIn" animation_delay="600"]
+[/pl_counter]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="4GzU1DOsqxNLyx5L"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="fFidyROAvDkSAOay"  counter_start_number="1" counter_end_number="20" animation_duration="2000" counter_align="center" counter_text="Locations" counter_text_color="#ffffffff" counter_text_style="Noto Sans,18,,400,,,Solid,1.9,,," counter_number_color="#6200eaff" counter_number_style="Muli,50,,600,,,Solid,,,," number_suffix="+" animation="zoomIn" animation_delay="400"]
+[/pl_counter]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="CQwFbY3NnIBVSNi1"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="1oYhW0sYX9jv8aZR"  counter_start_number="1" counter_end_number="20000" animation_duration="2000" counter_align="center" counter_text="Students Enrolled" counter_text_color="#ffffffff" counter_text_style="Noto Sans,18,,400,,,Solid,1.9,,," counter_number_color="#6200eaff" counter_number_style="Muli,50,,600,,,Solid,,,," number_suffix="+" thousand_seperator="true" thousand_seperator_type="," animation="zoomIn" animation_delay="600"]
+[/pl_counter]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="AZkCiEhuEWscV756"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px" ele_padding="0px,0px,60px,0px"]
+[pl_col pagelayer-id="GX0NnPSovgjSC8jF"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="26GRpYKdk19uaVnJ"  heading_state="normal" color="#111111" align="left" heading_typo="Muli,40,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+Testimonials[/pl_heading]
+[pl_divider pagelayer-id="wVn42uza6Ua2V4sh"  divider_style="solid" divider_color="#6200eaff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="left" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="RdSujxgymvYiq3EX"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="13px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="3MRS5RgcCEVVQ5KA"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_testimonial pagelayer-id="ocUTlkailx7AXS0v"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial1.jpg" testimonial_image_size="90" img_shape="circle" cite="Sam Carr" cite_color="#000000ff" cite_style="Muli,20,,600,,,Solid,,,," designation="Software Engineer" designation_color="#6200eaff" cite_designation_style="Noto Sans,16,,500,,,Solid,,,," ele_css="{{element}} .pagelayer-testimonial-content p{font-family:noto sans; font-weight:400; line-height:1.8;}" cite_spacing="0,0,0,10" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#eaeaeaff,4," animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </span></p>[/pl_testimonial]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="m84SZBB76WGsK0PK"  widget_space="15" overlay_hover_delay="400" col="4" ele_padding="0px,0px,0px,0px"]
+[pl_testimonial pagelayer-id="Q7COvp6XdZ8zodyf"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial2.jpg" testimonial_image_size="90" img_shape="circle" cite="Robert Chase" cite_color="#000000ff" cite_style="Muli,20,,600,,,Solid,,,," designation="Accountant" designation_color="#6200eaff" cite_designation_style="Noto Sans,16,,500,,,Solid,,,," ele_css="{{element}} .pagelayer-testimonial-content p{font-family:noto sans; font-weight:400; line-height:1.8;}" cite_spacing="0,0,0,10" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#eaeaeaff,4," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </span></p>[/pl_testimonial]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="uPmGrsP6ZQOu1brq"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_testimonial pagelayer-id="564Qmjc4JwKYQxV6"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial3.jpg" testimonial_image_size="90" img_shape="circle" cite="Jenna Simson" cite_color="#000000ff" cite_style="Muli,20,,600,,,Solid,,,," designation="Photographer" designation_color="#6200eaff" cite_designation_style="Noto Sans,16,,500,,,Solid,,,," ele_css="{{element}} .pagelayer-testimonial-content p{font-family:noto sans; font-weight:400; line-height:1.8;}" cite_spacing="0,0,0,10" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#eaeaeaff,4," animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </span></p>[/pl_testimonial]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

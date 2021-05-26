@@ -1,0 +1,36 @@
+[pl_row pagelayer-id="i7aXy0UzYk5mKGoE"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/header-bg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.8" overlay_color="#000000ff"]
+[pl_col pagelayer-id="UO75Xg71WJlvwNCt"  widget_space="15" overlay_hover_delay="400"]
+[pl_inner_row pagelayer-id="eVWZZPhArQjgCw9B"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="008T5M0vYKd9TENd"  widget_space="15" overlay_hover_delay="400" col_width="30" content_pos="center" col_width_mobile="70"]
+[pl_wp_title pagelayer-id="IkH4SIL4m5BTp7UT"  site_name="Academy" site_title_state="normal" text-align="left" site_title_style="Muli,30,,600,,,Solid,,Uppercase,," title_color="#ffffffff" title_padding="0,0,0,0"]
+[/pl_wp_title]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="AGSIYbYGGr4Tyw8G"  widget_space="15" overlay_hover_delay="400" col_width="70" col_width_mobile="25"]
+[pl_wp_menu pagelayer-id="7dSv1sSBGubavBIp"  nav_list="95" align="right" layout="horizontal" pointer="" m_animation="slide" list_style="none" submenu_ind="caret-down" menu_bg_color_hover="" menu_bg_color_active="" horizontal_padding="23" vertical_padding="10" submenu_color="#ffffff" submenu_bg_color="#0986c0" submenu_horizontal_padding="10" submenu_vertical_padding="10" submenu_left_margin="10" menu_toggle_align="center" menu_toggle_bg_color="#6200eaff" menu_toggle_size="30" slide_style="pagelayer-wp_menu-right" menu_width="30" menu_items_width="100" menu_posy="8" menu_bg="color" close_size="25" close_padding="8" close_color="#ffffff68" close_bg_color="#00000036" close_hover_delay="600" close_color_hover="#ffffff" close_bg_color_hover="#000000" submenu_position="left" menu_items_bg="#000000ff" menu_color="#ffffffff" menu_typo="Noto Sans,14,,600,,,Solid,,Uppercase,," menu_color_hover="#6200eaff" drop_breakpoint="tablet" menu_toggle_align_tablet="right" menu_toggle_color="#ffffffff" menu_toggle_size_tablet="20" menu_toggle_padding_tablet="10" menu_posy_tablet="5" vertical_padding_tablet="14" ele_css="{{element}} .pagelayer-wp_menu-ul .menu-item a {
+    justify-content: center;
+}" align_mobile="center" menu_toggle_align_mobile="right" menu_toggle_size_mobile="20" menu_toggle_padding_mobile="10" menu_width_mobile="50" menu_colors="active" menu_color_active="#6200eaff"]
+[/pl_wp_menu]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="NoK6nhWFHNX0FU51"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="150px,0px,150px,0px"]
+[pl_inner_col pagelayer-id="C9ifxXUNG0CyraFY"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="2JhAXtsQjjIo1jAG"  heading_state="normal" color="#ffffffff" align="left" heading_typo="Noto Sans,30,,400,,,Solid,,,," animation="fadeInLeft" animation_delay="600"]
+
+
+
+Your Bright Future[/pl_heading]
+[pl_heading pagelayer-id="uk6idakvUdW0zXaT"  heading_state="normal" color="#6200eaff" align="left" heading_typo="Muli,70,,600,,,Solid,,Uppercase,," heading_typo_mobile=",45,,600,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+Our Mission[/pl_heading]
+[pl_text pagelayer-id="PxSBDPCHc1hbh8hw"  ele_css="{{element}} .pagelayer-text-holder p{font-family:noto sans; color:#ffffff; line-height:2;;}" ele_custom_pos="true" ele_align="margin" ele_height="auto" ele_custom_width="768px" animation="fadeInUp" animation_delay="600"]
+
+
+<p style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>[/pl_text]
+[pl_btn pagelayer-id="R9DaKeXWxABowgx0"  text="Read More" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_custom_size="25" btn_bg_color="#6200eaff" btn_color="#ffffff" btn_typo="Muli,16,,600,,,Solid,,,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" animation="zoomIn" animation_delay="600"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
